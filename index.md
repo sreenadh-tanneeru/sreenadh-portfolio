@@ -5,10 +5,10 @@ I specialize in SQL, Python, BI dashboards, and cloud analytics (AWS/Azure/GCP).
 I build end-to-end data solutions that convert raw data into insights, dashboards, and automated workflows.
 
 ## 🔗 Links
-- **LinkedIn:www.linkedin.com/in/sreenadhtanneeru
+- **LinkedIn:**www.linkedin.com/in/sreenadhtanneeru
 - **Resume (PDF):  
-- **GitHub:https://github.com/sreenadh-tanneeru
-- **Portfolio:https://sreenadh-tanneeru.github.io/sreenadh-portfolio/
+- **GitHub:**https://github.com/sreenadh-tanneeru
+- **Portfolio:**https://sreenadh-tanneeru.github.io/sreenadh-portfolio/
 
 ## 📁 Featured Projects
 
