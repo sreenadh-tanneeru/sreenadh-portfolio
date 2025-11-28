@@ -33,9 +33,11 @@ Fixes applied:
 - Removed broken rows  
 - Created a clean view:
 
-  customer_cleaned
-**1. Total Revenue**
+
 ```sql
+
+1.Total Revenue
+
 SELECT SUM(total_amount) AS total_revenue
 FROM customer_cleaned;
 
