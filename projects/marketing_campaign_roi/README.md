@@ -11,7 +11,8 @@ This project analyzes marketing campaign performance using SQL to calculate reve
 - Which region converts best?  
 - What is the monthly revenue trend?  
 
-##  SQL KPIs  
+##  SQL KPIs 
+```sql
 
 ### 1. ROI by Campaign
 
