@@ -55,8 +55,6 @@ ORDER BY Month;
 
 📁 Folder Contents
 
-To be added later:
-
 1.Athena SQL files
 
 2.Dashboard screenshots
